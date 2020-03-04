@@ -1,4 +1,4 @@
-# Spring microservices movie ratings
+# Tweets analysis ETL pipeline using PySpark
 
 In this project, we generate some analytics on twitter tweet data, regarding US elections tweets.
 We parse the JSON data and extract the tweet data, partition the data into groups, count the number of posts from each partition and finally find popular tokens the each partition's tweets.  
